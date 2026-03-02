@@ -70,4 +70,5 @@ schema de culori:
 <img width="1799" height="818" alt="image" src="https://github.com/user-attachments/assets/a6907f72-9c9d-4798-a976-d6230c1e48e3" />
 
 titlul și descrierea:
+<img width="1613" height="653" alt="image" src="https://github.com/user-attachments/assets/a681fc5b-eb40-438e-92d3-7c22de81593f" />
 
