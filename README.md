@@ -42,3 +42,32 @@ Introducem datele necesare:
 Mesajul de succes:
 <img width="1018" height="546" alt="image" src="https://github.com/user-attachments/assets/446243f1-81b1-408b-a8b9-bc0b9b27c1e8" />
 
+Dashboard:
+<img width="1866" height="882" alt="image" src="https://github.com/user-attachments/assets/1d36601f-4983-43f3-b38f-8c23b344f729" />
+
+* Pasul 3. Setările inițiale ale site-ului
+1. În panoul de administrare, accesează secțiunea Settings → General. Schimbă numele site-ului și fusul orar.
+Numele site-ului:
+<img width="754" height="140" alt="image" src="https://github.com/user-attachments/assets/4eb6d5d7-5a25-4967-967e-d83a1d140f6e" />
+Fusul orar:
+<img width="1066" height="153" alt="image" src="https://github.com/user-attachments/assets/d8818970-b6a7-459f-bdb3-15b46ad8a387" />
+
+2. În Settings → Permalinks, selectează opțiunea Post name pentru link-uri mai prietenoase.
+<img width="490" height="103" alt="image" src="https://github.com/user-attachments/assets/48512613-b625-4254-9c0d-84ecbb6b9874" />
+
+* Pasul 4. Lucrul cu teme
+1. Deschide secțiunea Appearance → Themes.
+2. Instalează o temă nouă din catalogul oficial (de exemplu, „Astra”).
+<img width="1842" height="887" alt="image" src="https://github.com/user-attachments/assets/5cca2d19-fbec-42b1-b430-74fc196540b1" />
+
+3. Activează tema și compară cum s-a schimbat aspectul site-ului.
+<img width="1865" height="871" alt="image" src="https://github.com/user-attachments/assets/d36f442b-2886-4262-9e35-e76a93369661" />
+
+4. În meniul Appearance → Customize, configurează:
+logoul site-ului:
+
+schema de culori:
+<img width="1799" height="818" alt="image" src="https://github.com/user-attachments/assets/a6907f72-9c9d-4798-a976-d6230c1e48e3" />
+
+titlul și descrierea:
+
