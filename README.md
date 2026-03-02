@@ -10,4 +10,6 @@ Să înveți cum să instalezi WordPress într-un mediu local, să te familiariz
 
 ## Condiții
 * Pasul 1. Pregătirea mediului
-
+1. Instalează XAMPP (sau un stack similar: OpenServer, MAMP, Docker)
+2. Pornește modulele Apache și MySQL. Asigură-te că http://localhost se deschide.
+3. În phpMyAdmin, creează o bază de date nouă, de exemplu wp_lab2.
