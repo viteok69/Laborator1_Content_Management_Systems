@@ -65,10 +65,24 @@ Fusul orar:
 
 4. În meniul Appearance → Customize, configurează:
 logoul site-ului:
+<img width="210" height="199" alt="image" src="https://github.com/user-attachments/assets/d6070528-2d02-4ed3-96d2-4edce4b02d1a" />
 
 schema de culori:
 <img width="1799" height="818" alt="image" src="https://github.com/user-attachments/assets/a6907f72-9c9d-4798-a976-d6230c1e48e3" />
 
 titlul și descrierea:
 <img width="1613" height="653" alt="image" src="https://github.com/user-attachments/assets/a681fc5b-eb40-438e-92d3-7c22de81593f" />
+
+* Pasul 5. Lucrul cu plugin-uri
+1. Accesează secțiunea Plugins → Add New.
+<img width="1648" height="839" alt="image" src="https://github.com/user-attachments/assets/ee53b75e-30c9-43c0-847d-502ad3c62180" />
+
+2. Instalează și activează:
+pluginul Classic Editor (pentru editorul clasic de postări):
+<img width="776" height="295" alt="image" src="https://github.com/user-attachments/assets/e2144152-1146-484c-83a2-6cf9b77d2388" />
+
+pluginul Contact Form 7 (pentru adăugarea unui formular de contact):
+<img width="772" height="344" alt="image" src="https://github.com/user-attachments/assets/27db10b8-17b5-4e93-8c97-ba963e68c65b" />
+
+3. Verifică noile funcționalități în panoul de administrare (adăugarea unei postări cu Classic Editor și crearea unui formular cu Contact Form 7).
 
