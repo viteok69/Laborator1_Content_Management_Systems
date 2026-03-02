@@ -1,4 +1,4 @@
-# Laborator1_Content_Management_Systems
+<img width="1867" height="878" alt="image" src="https://github.com/user-attachments/assets/bf0e54f8-18c7-4ba5-8f74-d118e7e6e8a4" /># Laborator1_Content_Management_Systems
 
 > Realizat de studentul: Badia Victor \
 > Grupa: I2301
@@ -58,31 +58,52 @@ Fusul orar:
 * Pasul 4. Lucrul cu teme
 1. Deschide secțiunea Appearance → Themes.
 2. Instalează o temă nouă din catalogul oficial (de exemplu, „Astra”).
-<img width="1842" height="887" alt="image" src="https://github.com/user-attachments/assets/5cca2d19-fbec-42b1-b430-74fc196540b1" />
+<img width="1633" height="822" alt="image" src="https://github.com/user-attachments/assets/e581b029-8fc4-4358-8613-7713f10d94a8" />
 
-3. Activează tema și compară cum s-a schimbat aspectul site-ului.
-<img width="1865" height="871" alt="image" src="https://github.com/user-attachments/assets/d36f442b-2886-4262-9e35-e76a93369661" />
+3. În meniul Appearance → Customize, configurează:
+- logoul site-ului:
+<img width="1849" height="883" alt="image" src="https://github.com/user-attachments/assets/caa3f7d9-5870-474f-84da-034821f37260" />
 
-4. În meniul Appearance → Customize, configurează:
-logoul site-ului:
-<img width="210" height="199" alt="image" src="https://github.com/user-attachments/assets/d6070528-2d02-4ed3-96d2-4edce4b02d1a" />
+- schema de culori:
+<img width="1864" height="880" alt="image" src="https://github.com/user-attachments/assets/08224999-7706-4343-83e5-f97b8725f0c9" />
 
-schema de culori:
-<img width="1799" height="818" alt="image" src="https://github.com/user-attachments/assets/a6907f72-9c9d-4798-a976-d6230c1e48e3" />
-
-titlul și descrierea:
-<img width="1613" height="653" alt="image" src="https://github.com/user-attachments/assets/a681fc5b-eb40-438e-92d3-7c22de81593f" />
+- titlul și descrierea:
+<img width="1867" height="878" alt="image" src="https://github.com/user-attachments/assets/42153c45-bc62-48ce-87e5-62d28d51eee1" />
 
 * Pasul 5. Lucrul cu plugin-uri
 1. Accesează secțiunea Plugins → Add New.
-<img width="1648" height="839" alt="image" src="https://github.com/user-attachments/assets/ee53b75e-30c9-43c0-847d-502ad3c62180" />
-
 2. Instalează și activează:
-pluginul Classic Editor (pentru editorul clasic de postări):
-<img width="776" height="295" alt="image" src="https://github.com/user-attachments/assets/e2144152-1146-484c-83a2-6cf9b77d2388" />
+-pluginul Classic Editor (pentru editorul clasic de postări);
+-pluginul Contact Form 7 (pentru adăugarea unui formular de contact).
+<img width="1612" height="158" alt="image" src="https://github.com/user-attachments/assets/6c9b370a-19f7-4821-a56c-de61b8829234" />
 
-pluginul Contact Form 7 (pentru adăugarea unui formular de contact):
-<img width="772" height="344" alt="image" src="https://github.com/user-attachments/assets/27db10b8-17b5-4e93-8c97-ba963e68c65b" />
+3. Verifică noile funcționalități în panoul de administrare.
+- adăugarea unei postări cu Classic Editor:
+<img width="1659" height="718" alt="image" src="https://github.com/user-attachments/assets/34aa7d4a-f3da-48e3-ae2f-3e260515d97f" />
 
-3. Verifică noile funcționalități în panoul de administrare (adăugarea unei postări cu Classic Editor și crearea unui formular cu Contact Form 7).
+- crearea unui formular cu Contact Form 7:
+<img width="1863" height="840" alt="image" src="https://github.com/user-attachments/assets/139e7fa2-53dc-40fe-a1ed-8197bba77730" />
 
+4. În Plugins → Installed Plugins, dezactivează unul dintre plugin-uri și asigură-te că funcționalitatea acestuia a dispărut.
+<img width="261" height="77" alt="image" src="https://github.com/user-attachments/assets/d00f7b49-f7a7-446a-9d4c-f92f24666501" />
+<img width="1866" height="884" alt="image" src="https://github.com/user-attachments/assets/d1e68865-ea7b-4213-be51-909ffc837f59" />
+
+* Pasul 6. Crearea de conținut
+1. Creează o pagină simplă „Contacte” și inserează formularul de contact.
+<img width="1865" height="880" alt="image" src="https://github.com/user-attachments/assets/33a71bed-112c-4a10-a3f3-49a99a8c6a05" />
+
+2. Creează câteva postări pe blog cu conținut diferit (text, imagini).
+<img width="1868" height="848" alt="image" src="https://github.com/user-attachments/assets/a0612699-c17a-4411-9ffd-50969da04331" />
+<img width="1868" height="879" alt="image" src="https://github.com/user-attachments/assets/b9441612-1fc6-4c5b-be56-7fe90e7f438f" />
+
+3. Verifică modul în care este afișat conținutul pe site.
+
+## Întrebări de control
+1. Ce face o temă în WordPress și ce face un plugin?
+Tema definește designul și estetica vizuală (culori, fonturi, așezare), în timp ce un plugin adaugă funcționalități specifice, cum ar fi formularele de contact sau securitatea.
+
+2. De ce nu se pierde conținutul site-ului atunci când se schimbă tema?
+Conținutul este stocat separat într-o bază de date, astfel încât schimbarea temei modifică doar „stratul de haine” vizual, nu și datele salvate.
+
+3. Cum se poate modifica aspectul site-ului fără a edita codul?
+Putem folosi instrumente vizuale precum Customizer pentru setări de bază, editorul de blocuri sau plugin-uri, pentru construcția paginilor.
