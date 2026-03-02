@@ -1,4 +1,3 @@
-<img width="1867" height="878" alt="image" src="https://github.com/user-attachments/assets/bf0e54f8-18c7-4ba5-8f74-d118e7e6e8a4" /># Laborator1_Content_Management_Systems
 
 > Realizat de studentul: Badia Victor \
 > Grupa: I2301
