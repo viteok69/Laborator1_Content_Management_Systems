@@ -9,4 +9,5 @@
 Să înveți cum să instalezi WordPress într-un mediu local, să te familiarizezi cu panoul de administrare, să modifici aspectul site-ului prin teme și să extinzi funcționalitatea acestuia cu ajutorul plugin-urilor.
 
 ## Condiții
-# Pasul 1. Pregătirea mediului
+* Pasul 1. Pregătirea mediului
+
