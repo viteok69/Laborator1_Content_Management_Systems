@@ -32,9 +32,13 @@ Alegem limba:
 
 Introducem datele necesare:
 <img width="1016" height="846" alt="image" src="https://github.com/user-attachments/assets/d5d752ce-3382-4e59-a18a-aff15b8984b7" />
-<img width="1016" height="846" alt="image" src="https://github.com/user-attachments/assets/a7e819e0-7190-4271-8eaf-96c46dc1927d" />
 
 Incepem procesul de instalare:
 <img width="1003" height="401" alt="image" src="https://github.com/user-attachments/assets/8a98e2b7-69d2-4e54-aba4-1a5e0a3265ff" />
 
+Introducem datele necesare:
+<img width="962" height="861" alt="image" src="https://github.com/user-attachments/assets/46477931-2bbd-46e7-885a-ee825a7762a0" />
+
+Mesajul de succes:
+<img width="1018" height="546" alt="image" src="https://github.com/user-attachments/assets/446243f1-81b1-408b-a8b9-bc0b9b27c1e8" />
 
